@@ -240,6 +240,28 @@ Monitoring return rates can help identify potential issues related to products, 
 
 ---
 
+## 📊 Power BI Dashboard
+
+The Power BI dashboard provides an interactive view of sales performance, profitability, customer behavior, and key business metrics.
+
+### Executive Overview
+
+![Executive Overview](Images/Executive%20Overview.jpg)
+
+### KPI Dashboard
+
+![KPI Dashboard](Images/KPI.jpg)
+
+### Customer Analysis
+
+![Customer Analysis](Images/Customer%20Analysis.jpg)
+
+### Business Insights & Recommendations
+
+![Business Insights and Recommendations](Images/Business%20Insights%20and%20Recommendations.jpg)
+
+---
+
 # 💼 Business Recommendations
 
 Based on the analysis:
