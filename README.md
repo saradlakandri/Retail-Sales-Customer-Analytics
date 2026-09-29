@@ -128,3 +128,7 @@ Based on the analysis, the business should:
 ## Project Outcome
 
 The project demonstrates the process of taking raw retail transaction data, cleaning and validating the data, performing business analysis, and presenting the results through an interactive Power BI dashboard.
+
+## Project Status
+
+Project completed and published on GitHub.
